@@ -13,6 +13,5 @@ A fully responsive **Currency Converter** web app that allows users to quickly c
 ✅ **Deployed on Netlify** – Quick access with seamless performance.  
 
 🔗 **Live Demo:** [https://risingwebmancurrencyconverter.netlify.app/]
-📌 **Tech Used:** React, JavaScript, Tailwind CSS, Vite, Netlify  
 
 Feel free to **fork, contribute, and explore**! 🚀
